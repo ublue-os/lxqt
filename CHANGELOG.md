@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/ublue-os/lxqt/compare/v1.0.0...v1.0.1) (2024-01-31)
+
+
+### Bug Fixes
+
+* add dependabot for updating actions ([2a79e8c](https://github.com/ublue-os/lxqt/commit/2a79e8cd3e703f1a6ccac29d526380d655075b01))
+* set dependabot to monitor github-actions ([a8fd838](https://github.com/ublue-os/lxqt/commit/a8fd8389f3df665d17c7e7ab1b031242c6f8ca36))
+
 ## 1.0.0 (2023-02-18)
 
 
